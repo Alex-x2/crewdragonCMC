@@ -69,7 +69,7 @@
 }
 .robert p{
 	
-	margin-top: 2.5%;
+	margin-top: 2%;
 	margin-left:30%;
 
 }
@@ -99,8 +99,23 @@
     
 }
 
+.douglasrobert p{
+	
+	text-align:center;
+	margin-left:30%;
+	margin-right: 30%;
+	margin-bottom: 50%;
+}
 
+.astrothree{
+	top: 220%;
+	left:25%;
+}
 
+#axis:hover .douglasrobert{
+    transform: translate(0,50%);
+    
+}
 
 .info{
 	width: 100%;
@@ -119,6 +134,3 @@
 
 
 }
-
-
-

@@ -8,7 +8,7 @@
 .container{
 	width: 100%;
 	height: 100%;
-	background-image: url("kennedy (1).jpg");
+	background-image: url("demo2s.jpg");
 
 }
 
@@ -21,27 +21,29 @@
 .menu ul li{
 	list-style: none;
 	margin: 0 20px;
-	color: #A9A9A9;
+	color: #C2DBDC;
 	cursor: pointer;
 }
 
 .menu ul li a{
-	color: #A9A9A9;
+	color: #C2DBDC;
 	text-decoration: none;
 }
+
+
 
 
 .titol{
 
 	position: absolute;
-	top: 150px;
-	left: 50%;
+	top: 190px;
+	left: 100px;
 	color: #fff;
 }
 
 .titol h3{
 	font-style: italic;
-	color: #A9A9A9;
+	color: #343636;
 }
 
 
@@ -99,6 +101,7 @@ html{
   display: block;
   width: 350px;
   height: 200px;
+
 }
 
 
@@ -109,12 +112,15 @@ html{
   justify-content: center;
   height: 100%;
   font-size: 5em;
+
 }
+
 
 .info{
 	width: 100%;
 	height: 20%;
 	background-color: #000;
+	margin-top: 5%;
 
 }
 
